@@ -1,0 +1,602 @@
+.band_1{
+    display:flex;
+    width: 100%;
+    height: 80px;
+    background-color: rgba(128, 128, 128, 0.336);
+}
+ 
+.games{
+    font-family: 'Noto Sans', 'sans-serif';
+    margin: 0;
+    text-align: center;
+    color: rgb(15, 132, 235);
+    font-size: 25px;
+    padding-top: 13px;
+}
+
+.emblem_ps{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.ps_store{
+    font-family: Times, Times New Roman, serif;
+    color: black;
+    font-size: 30px;
+   margin-left: 20px;
+}
+.container_1{
+    display: flex;
+    justify-content: space-between;
+}
+.play_name{
+    font-family: Times, Times New Roman, serif;
+    color: black;
+    font-size: 24px;
+    margin-top: 37px;
+    margin-left: 80px;
+}
+ 
+.services_name{
+    font-family: Times, Times New Roman, serif;
+    color: black;
+    font-size: 24px;
+    margin-top: 37px;
+    margin-left: 60px;
+}
+
+.payment_name{
+    font-family: Times, Times New Roman, serif;
+    color: black;
+    font-size: 24px;
+    margin-top: 37px;
+    margin-left: 60px;
+}
+.devices_name{
+    font-family: Times, Times New Roman, serif;
+    color: black;
+    font-size: 24px;
+    margin-top: 37px;
+    margin-left: 50px;
+}
+ 
+.map_name{
+    font-family: Times, Times New Roman, serif;
+    color: black;
+    font-size: 24px;
+    margin-top: 37px;
+    margin-left: 50px;
+}
+ 
+.container_2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+ 
+.oval{
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color:  rgb(3, 3, 82);
+    width: 160px;
+    height: 60px;
+    border-radius: 50px/50px;
+}
+ 
+.oval_text{
+    font-family: Times, Times New Roman, serif;
+    color: white;
+    font-size: 24px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.magnifying_glass{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.big_box{
+    display: flex;
+    background-color: rgb(3, 3, 82);
+    margin-top: 50px;
+    width: 100%;
+    height: 800px;
+}
+ 
+.container_3{
+    display: block;
+    justify-content: space-between;
+    width: 50%;
+}
+.photo_game{
+    margin-top: 100px;
+    margin-left: 130px;
+    margin-bottom: -40px;
+}
+ 
+.text_banner{
+    color: white;
+    font-weight: 300px;
+    font-size: 80px;
+    font-family: Times, Times New Roman, serif;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+}
+ 
+.text_banner_2{
+    color: white;
+    font-size: 30px;
+    font-family:  Palatino, URW Palladio L, serif;
+    font-style: inherit;
+    margin-left: 150px;
+}
+ 
+ .ps5{
+    margin-top: 50px;
+    margin-left: 150px;
+ }
+
+ .container_4{
+    display: flex;
+    justify-content: space-between;
+ }
+ 
+ .oval_game_1{
+    background-color: rgb(3, 3, 82);
+    width: 500px;
+    height: 650px;
+    border-radius: 80px/80px;
+    margin-top: 100px;
+    margin-left: 10px;
+     
+   
+ }
+ .oval_game_2{
+    background-color: rgb(3, 3, 82);
+    width: 500px;
+    height: 650px;
+    border-radius: 80px/80px;
+    margin-top: 100px;
+     
+ }
+ .oval_game_3{
+    background-color: rgb(3, 3, 82);
+    width: 500px;
+    height: 650px;
+    border-radius: 80px/80px;
+    margin-top: 100px;
+ }
+.mortal{
+    margin-top: 40px;
+    margin-left: 90px;
+}
+.mortal_text{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 30px;
+    margin-left: 126px;
+    font-weight: 700px;
+}
+.mortal_tex2{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 150px;
+    font-weight: 700px;
+}
+.nightmare{
+    margin-top: 40px;
+    margin-left: 90px;
+}
+.nightmare_text{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 30px;
+    margin-left: 160px;
+    font-weight: 700px;
+}
+.nightmare_text2{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 160px;
+    font-weight: 700px;
+}
+.the_last{
+    margin-top: 40px;
+    margin-left: 90px;
+}
+.the_last_text{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 30px;
+    margin-left: 120px;
+    font-weight: 700px;
+}
+.the_last_text2{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 170px;
+    font-weight: 700px;
+}
+.container_5{
+    display: flex;
+     
+}
+.box{
+    width: 100%;
+    height: 900px;
+}
+.box_text_1{
+    font-size: 70px;
+    font-family: Times, Times New Roman, serif;
+    color: rgb(3, 3, 82);
+    
+    margin-top: 80px;
+}
+.box_text_2{
+    font-size: 40px;
+    font-family: Times, Times New Roman, serif;
+    color: rgb(3, 3, 82);
+     
+}
+.line{
+    display: flex;
+    
+    flex-direction: column;
+}
+ 
+.mini_box_text1{
+    font-size: 25px;
+    font-family: Times, Times New Roman, serif;
+    color: rgb(3, 3, 82);
+    text-align: center;
+    
+    
+}
+.orange_oval{
+    background-color: rgb(197, 60, 5);
+    width: 350px;
+    height: 80px;
+    border-radius: 50px/50px;
+    margin-top: 40px;
+    
+}
+.text_orange_oval{
+    color: white;
+    font-size: 23px;
+   padding-left: 12px;
+ 
+    
+}
+.knopka{
+    display: flex;
+    justify-content: center;
+}
+.container_6{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.box_2{
+    width: 100%;
+    height: 600px;
+}
+.box_2_text{
+    color: rgb(3, 3, 82);
+    font-size: 60px;
+    font-family: Times, Times New Roman, serif;
+}
+.box_3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.box_payment_1{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(128, 128, 128, 0.336);
+    margin-left: 40px;
+}
+.sbp{
+    margin-top: 30px;
+}
+.box_payment_2{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(128, 128, 128, 0.336);
+    margin-left: 40px;
+}
+.visa{
+    margin-top: 90px;
+    margin-left: 20px;
+}
+.box_payment_3{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(128, 128, 128, 0.336);
+    margin-left: 40px;
+}
+.mastercard{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.box_payment_4{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(128, 128, 128, 0.336);
+    margin-left: 40px;
+}
+.playstor{
+    margin-right: 90px;
+}
+.container_7{
+    display: flex;
+    justify-content: center;
+}
+.box_4{
+
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+}
+.box_4_text{
+    color: rgb(3, 3, 82);
+    font-size: 50px;
+    font-family: Times, Times New Roman, serif;
+}
+.oval_ps5{
+    background-color: rgb(3, 3, 82);
+    width: 500px;
+    height: 550px;
+    border-radius: 80px/80px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.photo_ps5{
+    margin-left: 40px;
+}
+.text_ps5{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 30px;
+    margin-left: 150px;
+    font-weight: 700px;
+}
+.text2_ps5{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 160px;
+    font-weight: 700px;
+}
+.jostik{
+    background-color: rgb(3, 3, 82);
+    width: 500px;
+    height: 550px;
+    border-radius: 80px/80px;
+    border-radius: 80px/80px;
+    margin-top: 100px;
+}
+.photo_jostik{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.text_jostik{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 30px;
+    margin-left: 110px;
+    font-weight: 700px;
+}
+.text2_jostik{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 170px;
+    font-weight: 700px;
+}
+.oval_ps4{
+    background-color: rgb(3, 3, 82);
+    width: 500px;
+    height: 550px;
+    border-radius: 80px/80px;
+    border-radius: 80px/80px;
+    margin-top: 100px;
+    margin-right: 10px;
+}
+.ps4{
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.text_ps4{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 30px;
+    margin-left: 165px;
+    font-weight: 700px;
+}
+.text2_ps4{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 170px;
+    font-weight: 700px;
+}
+.container_8{
+    display: block;
+    flex-direction: row;
+    justify-content: center;
+}
+.box_5{
+    width: 100%;
+    height: 800px;
+    display: block;
+    justify-content: center;
+}
+.map_text{
+    color: rgb(3, 3, 82);
+    font-size: 60px;
+    font-family: Times, Times New Roman, serif;
+    margin-bottom: 15px;
+}
+.map_yandex{
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+ 
+}
+.band_end{
+    
+  
+    background-color: rgb(3, 3, 82);
+    width: 100%;
+    height: 450px;
+}
+ 
+.box_6{
+    display: flex;
+}
+.photo_banner_end{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.text_end{
+    font-family: Times, Times New Roman, serif;
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    margin-left:10px;
+}
+.box_7{
+    display: block;
+    width: 100%;
+}
+hr{
+    background-color:rgba(128, 128, 128, 0.781);
+    border: none;
+    height: 10px;
+    width: 100%;
+}
+.grid_banner{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.about_us{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 25px;
+    margin-left: 120px;
+    font-weight: 700px;
+}
+.Career{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 120px;
+    font-weight: 700px;
+}
+.Studios{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 120px;
+    font-weight: 700px;
+}
+.Productions{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 120px;
+    font-weight: 700px;
+}
+.company{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 120px;
+    font-weight: 700px;
+}
+.Prodyct{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 25px;
+    margin-left: 120px;
+    font-weight: 700px;
+}
+.pss_5{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 120px;
+    font-weight: 700px;
+}
+.pss4{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 120px;
+    font-weight: 700px;
+}
+.gamepad{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 120px;
+    font-weight: 700px;
+}
+.games_2{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    margin-left: 120px;
+    font-weight: 700px;
+}
+.support{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 25px;
+    margin-left: 19px;
+    font-weight: 700px;
+}
+.center{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    font-weight: 700px;
+}
+.pp_2{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    font-weight: 700px;
+}
+.guides{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    font-weight: 700px;
+}
+ 
+.podkl{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 25px;
+    font-weight: 700px;
+}
+ .sothseti{
+    margin-right: 80px;
+ }
+ .ios{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    font-weight: 700px;
+ }
+ .android{
+    color: white;
+    font-family: Times, Times New Roman, serif;
+    font-size: 20px;
+    font-weight: 700px;
+ }
